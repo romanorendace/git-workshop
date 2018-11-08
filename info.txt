@@ -2,6 +2,6 @@ dit is een test
 nieuwe info
 remotely added info
 locally added info for conflict
-local new conflict
-
-
+=======
+remotely add new conflict
+>>>>>>> 53f8951ea6f11e1d91cb29d1ccfe338b29e485b6
