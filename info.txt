@@ -2,6 +2,6 @@ dit is een test
 nieuwe info
 remotely added info
 locally added info for conflict
-
+local new conflict
 
 
